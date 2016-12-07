@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小苹果</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-09-19T16:45:43.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Leon Lai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>it works</title>
+    <link href="http://yoursite.com/2016/09/20/it-works/"/>
+    <id>http://yoursite.com/2016/09/20/it-works/</id>
+    <published>2016-09-19T16:43:48.000Z</published>
+    <updated>2016-09-19T16:45:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>正常工作了，得去睡觉了，不然明天爬不起来。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;正常工作了，得去睡觉了，不然明天爬不起来。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/09/19/hello-world/"/>
+    <id>http://yoursite.com/2016/09/19/hello-world/</id>
+    <published>2016-09-19T14:26:56.000Z</published>
+    <updated>2016-09-19T14:26:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始用Hexo来搭建自己的博客。<br>先熟悉下语法，嘿嘿。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开始用Hexo来搭建自己的博客。&lt;br&gt;先熟悉下语法，嘿嘿。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
